@@ -2,4 +2,4 @@
 
 ## Assignment_01 `17-09-2002`
 
-We've worked as a team, explored the Datasets and Visualised the the Datasets into Dashboards. Gained more exposure and usuage in Cognus Analytics
+We've worked as a team, explored the Datasets and Visualized the the Datasets into Dashboards. Gained more exposure and usuage in Cognus Analytics
