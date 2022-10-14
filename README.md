@@ -1,5 +1,1 @@
-# IBM-Project-42648-1660695765  Estimate the Crop Yield using Data Analytics
-
-## Assignment_01  Dataset Exploration & Visualization `17-09-2002`
-
-We've worked as a team, explored the Datasets and Visualized the the Datasets into Dashboards. Gained more exposure and usuage in Cognus Analytics
+##All Pre-Development tasks are submitted within Due Date `You can check Commit History` .Because of arrangment of folders in required manner new commits are commited and so new commit's dates is showing. `Kindly Check Commit History for our Punctuatality.` 
