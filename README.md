@@ -1,1 +1,1 @@
-## All Pre-Development tasks are submitted within Due Date `You can check Commit History` .Because of arrangment of folders in required manner new commits are commited and so new commit's dates is showing. `Kindly Check Commit History for our Punctuatality.` 
+## All Pre-Development tasks are submitted within Due Date `You can check Commit History` .Because of arrangment of folders in required manner new commits are commited and so new commit's dates is showing. `Kindly Check Commit History for our Punctuality.` 
