@@ -1,8 +1,7 @@
 ## Estimate the Crop Yield Using Data Analytics - `completed`
 
 
-![alt1](./Final%20Deliverables/Demo%20Screenshots%20and%20Video%20link/Youtube_2.png)
-![alt2](./Final%20Deliverables/Demo%20Screenshots%20and%20Video%20link/Youtube_1.png)
+![alt1](./Final%20Deliverables/Demo%20Screenshots%20and%20Video%20link/1.png)
 
 # TEAM :
 Team Lead - Sham Hiruthik
