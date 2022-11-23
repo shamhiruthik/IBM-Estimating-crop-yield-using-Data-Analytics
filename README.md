@@ -4,10 +4,10 @@
 ![alt1](./Final%20Deliverables/Demo%20Screenshots%20and%20Video%20link/1.png)
 
 # TEAM :
-Team Lead - Sham Hiruthik
-Team Member1 - Joseph Rums Bilt
-Team Member2 - Saran
-Team Member 3- Venkatesh
+* Team Lead - Sham Hiruthik
+* Team Member1 - Joseph Rums Bilt
+* Team Member2 - Saran
+* Team Member 3- Venkatesh
 
 # Project Overview:
 
